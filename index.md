@@ -87,3 +87,20 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns.
 
 ---
+
+[Identifying symtoms of prthopedic patients as normal and abnormal](https://github.com/Gilbert228/Orthopedic-Patient-Prediction)
+
+<img src="images/knee-brace-ortho.png"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
+
+**Project Objective:** The classification goal is to Classify the orthopedic parameters as Normal and Abnormal. 
+
+**Quantifiable result:** We could Classify with the resulting in [**86%** accuracy](https://github.com/Gilbert228/Orthopedic-Patient-Prediction).
+
+-Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
+-Compared predictive performance by fitting a Naive Bayes model to the data
+-Selected best model based on train and test performance
+
+
+---

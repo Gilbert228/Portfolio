@@ -1,4 +1,4 @@
-Website Address: [Click Me](https://gilbert228.github.io/My_Portfolio/)
+Website Address: [Click Me](https://gilbert228.github.io/Portfolio/)
 
 ## portfolio snapshot
 
